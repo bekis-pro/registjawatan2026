@@ -149,3 +149,4 @@ document
     document.getElementById("kataSandi").style.display = "block";
     document.getElementById("loadingContent").style.display = "none";
   });
+
